@@ -1,0 +1,80 @@
+# marianoperezhn.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        #Travel-to-new-york {
+            color:rgb(161, 63, 39);
+        }    
+        
+
+        #to-see {
+            color:rgb(171, 163, 99) ;
+        }   
+        
+        #to-visit {
+            color:rgb(120, 119, 41);
+        }
+        #city-of-light {
+            color:rgb(219, 172, 31);
+        }
+        
+         body {
+           background-color:rgb(158, 222, 196);
+       }
+        p {
+            color: rgb(16, 47, 161);
+        }
+           
+        
+        }   
+        
+        </style>
+            
+        
+    </head>
+    <body>
+    
+        <h1 id="Travel-to-new-york">Travel to New York City</h1>
+        
+        <p>Your perfect trip to <em>The Big Apple.</em></p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/Heart.png" alt="heart" width="110">
+        
+        <h2 id="to-see">What we are going to see in New York </h2>
+        <ol>
+        
+        <li>Statue og Liberty</li>
+        <li>Empire State Building</li>
+        <li>Broadway</li>
+        
+    </ol>
+            
+       
+        <h2 id="to-visit">Places we are going to visit</h2>
+        
+        <ol>
+        
+        <li>Central Park</li>
+        <li>The Metropolitan Museum of Art</li>
+        <li>Brooklyn Bridge</li>
+        <li>9/11 Memorial and Museum</li>
+        <li>Times Square</li>
+            
+        </ol>
+        
+        <p>New York City captivates tourists with iconic landmarks like the Statue of Liberty and the Empire State Building, diverse neighborhoods, and world-class museums. The vibrant energy of Times Square contrasts with the tranquility of Central Park, making it an unforgettable destination.</p>
+        <h3 id="city-that-never-sleeps">"The City That Never Sleepls"</h3>
+        
+        <p>New York City is called "the city that never sleeps" due to its constant activity and vibrant nightlife, with entertainment and dining options available 24/7, making it a place where life never slows down..</p>
+        
+        <h3> The High Line</h3>
+        <p>The High Line is a 1.45-mile elevated park in Manhattan, featuring gardens, art, and city views. It offers a peaceful escape and hosts cultural events, attracting both locals and tourists.</p>
+       
+        
+        
+        
+        
+    </body>
+</html>
